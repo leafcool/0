@@ -117,4 +117,5 @@ mylist = [1, 4, -5, 10, -7, 2, 3, -1]
 import math
 print([math.sqrt(n) for n in mylist if n > 0])
 # https://python3-cookbook.readthedocs.io/zh_CN/latest/c01/p16_filter_sequence_elements.html
+#https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md#ide
 
